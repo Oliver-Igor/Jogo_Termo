@@ -66,7 +66,7 @@ const checkGuess = () => {
     } else {
         if( currentRow === rows -1) {
         setTimeout(() => {
-            window.alert('Errrrou!')
+            window.alert(`Você errou! A palavra é ${termo}`)
         }, 20);
         
         
