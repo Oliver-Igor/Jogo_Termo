@@ -1,5 +1,5 @@
 # Jogo_Termo
-Jogo do tipo LETRECO e TERMO somente com HTML, CSS e Javascript.</br>
+Jogo do tipo TERMO somente com HTML, CSS e Javascript.</br>
 Desenvolvido com o objetivo de treinar DOM e lógica de programação.</br>
 <br>
 <br>
