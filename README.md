@@ -1,5 +1,5 @@
 # Jogo_Termo
-Jogo do tipo TERMO somente com HTML, CSS e Javascript.</br>
+Jogo do tipo TERMO feito com HTML, CSS e Javascript.</br>
 Desenvolvido com o objetivo de treinar DOM e lógica de programação.</br>
 <br>
 <br>
@@ -8,5 +8,5 @@ Os jogadores têm 6 tentativas para descobrir a palavra. A cada sugestão o jogo
 <br>
 <div><img src="https://user-images.githubusercontent.com/80131918/157351845-32d60048-2952-4a7f-8fc7-54ca86b08711.png"  width="380px"></div>
 <br>
-Acesse:
+Acessar o site diretamente clicando no link abaixo:
 https://oliver-igor.github.io/Jogo_Termo/
