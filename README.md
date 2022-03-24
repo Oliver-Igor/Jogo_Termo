@@ -8,5 +8,5 @@ Os jogadores têm 6 tentativas para descobrir a palavra. A cada sugestão o jogo
 <br>
 <div><img src="https://user-images.githubusercontent.com/80131918/157351845-32d60048-2952-4a7f-8fc7-54ca86b08711.png"  width="380px"></div>
 <br>
-Acessar o site diretamente clicando no link abaixo:
+Acessar o site diretamente clicando no link abaixo:</br>
 https://oliver-igor.github.io/Jogo_Termo/
